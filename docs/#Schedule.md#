@@ -1,0 +1,20 @@
+# Goals
+## Technical goals
+Be able to do all of the following file system and programming tasks.
+* Read files asychronously.
+* Process JSON, XML, SQL, and streams.
+* Read and write Kafka
+* Read and write elastic
+* Pop up a node cluster
+* Set up an API sample
+* Connect to most common databases
+  * SQL - Postgres
+  * Document - Mongo OR Dynamo
+  * Graph : neo4j
+  * Search Document : Elastic
+  * Key value : redis, memcached
+## Style Goals
+Be able to clearly write the following:
+  * Point-free functional interfaces
+  * First class object factories
+  * 
