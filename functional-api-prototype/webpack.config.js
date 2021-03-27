@@ -1,5 +1,8 @@
 // webpack.config.js
 module.exports = {
+    entry: {
+        "./index.js"
+    },
     module: {
         loaders: [
             {exclude: ['node_modules'], loader: 'babel', test: /\.jsx?$/},
